@@ -8,3 +8,6 @@ In the visual Studio installer select these workloads
 After you install Visual Studio on the folder click on the SudokuValidator.sln
 After you open the file on the right side you click on the solution explorer, and on the Program.cs is the code.
 Thank you!
+
+
+Also I did not fill the array from the csv file, I still have not encountered something like that in my programing years.

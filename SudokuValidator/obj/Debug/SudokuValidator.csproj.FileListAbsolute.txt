@@ -1,0 +1,8 @@
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csproj.AssemblyReference.cache
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csproj.SuggestedBindingRedirects.cache
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csproj.CoreCompileInputs.cache
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe.config
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.pdb
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.exe
+C:\Users\fatba\OneDrive\Desktop\ElbaTech\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.pdb
